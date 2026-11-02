@@ -1,15 +1,15 @@
-# 💰 Finance Tracker - Modern PWA
+# Finance Tracker - Modern PWA
 
-A beautiful, modern Progressive Web App for personal finance tracking with offline support, dark mode, and a stunning user interface.
+A modern Progressive Web App for personal finance tracking with offline support, dark mode, and a stunning user interface.
 
 ![Finance Tracker](https://img.shields.io/badge/Version-2.0.0-blue)
 ![PWA](https://img.shields.io/badge/PWA-Ready-green)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
 ![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Supported-purple)
 
-## ✨ Features
+## Features
 
-### 🎨 **Modern UI/UX**
+### **Modern UI/UX**
 - Beautiful gradient design with smooth animations
 - Dark/Light theme toggle with system preference detection
 - Responsive design that works on all devices
@@ -17,14 +17,14 @@ A beautiful, modern Progressive Web App for personal finance tracking with offli
 - Toast notifications for user feedback
 - Loading states and smooth transitions
 
-### 💾 **Smart Data Management**
+### **Smart Data Management**
 - Offline-first architecture with IndexedDB caching
 - Real-time sync when connection is restored
 - Automatic retry for failed requests
 - Connection status indicator
 - Form validation and error handling
 
-### 📊 **Rich Features**
+### **Rich Features**
 - Add income and expenses with descriptions
 - View transaction history with filtering
 - **Advanced Statistics Dashboard**:
@@ -38,14 +38,14 @@ A beautiful, modern Progressive Web App for personal finance tracking with offli
 - Edit and delete transactions inline
 - Search and filter by type and time period
 
-### 🔒 **Security & Performance**
+### **Security & Performance**
 - Environment-based configuration
 - Secure API token management
 - CORS-compliant requests
 - Service Worker for offline functionality
 - Optimized bundle size and loading
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. **Setup Google Sheets Backend**
 
@@ -86,7 +86,7 @@ VITE_API_TOKEN=your_secret_token_here
 - Automatic system preference detection
 - Consistent design across all components
 
-## 🛠 Technical Stack
+## Technical Stack
 
 - **Frontend**: Vanilla JavaScript (ES6+), HTML5, CSS3
 - **Storage**: IndexedDB for offline caching
@@ -95,7 +95,7 @@ VITE_API_TOKEN=your_secret_token_here
 - **Styling**: CSS Custom Properties, CSS Grid, Flexbox
 - **Icons**: Feather Icons (inline SVG)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 finance-tracker/
@@ -113,31 +113,31 @@ finance-tracker/
 └── README.md          # This file
 ```
 
-## 🎯 Key Improvements in v2.0
+## Key Improvements in v2.0
 
 ### 🔧 **Technical Enhancements**
-- ✅ Fixed CORS issues with FormData approach
-- ✅ Environment-based configuration
-- ✅ Improved error handling and logging
-- ✅ Better offline queue management
-- ✅ Enhanced service worker caching
+- Fixed CORS issues with FormData approach
+- Environment-based configuration
+- Improved error handling and logging
+- Better offline queue management
+- Enhanced service worker caching
 
-### 🎨 **UI/UX Overhaul**
-- ✅ Complete design system with CSS custom properties
-- ✅ Dark/Light theme support
-- ✅ Modern card-based layout
-- ✅ Smooth animations and transitions
-- ✅ Toast notifications system
-- ✅ Loading states and feedback
+### **UI/UX Overhaul**
+- Complete design system with CSS custom properties
+- Dark/Light theme support
+- Modern card-based layout
+- Smooth animations and transitions
+- Toast notifications system
+- Loading states and feedback
 
-### 📱 **Mobile Experience**
-- ✅ Bottom navigation for easy thumb access
-- ✅ Touch-friendly buttons and inputs
-- ✅ Swipe gestures and interactions
-- ✅ Optimized for various screen sizes
-- ✅ PWA installation prompts
+###**Mobile Experience**
+- Bottom navigation for easy thumb access
+- Touch-friendly buttons and inputs
+- Swipe gestures and interactions
+- Optimized for various screen sizes
+- PWA installation prompts
 
-## 🔧 Configuration Options
+## Configuration Options
 
 ### Theme Customization
 Modify CSS custom properties in `style.css`:
@@ -164,14 +164,14 @@ FEATURES: {
 }
 ```
 
-## 🌐 Browser Support
+## Browser Support
 
 - **Chrome/Edge**: 80+
 - **Firefox**: 75+
 - **Safari**: 13+
 - **Mobile browsers**: iOS Safari 13+, Chrome Mobile 80+
 
-## 📈 Performance
+## Performance
 
 - **First Contentful Paint**: < 1.5s
 - **Largest Contentful Paint**: < 2.5s
@@ -179,7 +179,7 @@ FEATURES: {
 - **Bundle Size**: < 50KB (gzipped)
 - **Lighthouse Score**: 95+ (Performance, Accessibility, Best Practices, SEO)
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -187,11 +187,7 @@ FEATURES: {
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-MIT License - feel free to use this project for personal or commercial purposes.
-
-## 🆘 Support
+##Support
 
 If you encounter any issues:
 
@@ -201,5 +197,3 @@ If you encounter any issues:
 4. Check browser console for error messages
 
 ---
-
-**Made with ❤️ for better financial management**
