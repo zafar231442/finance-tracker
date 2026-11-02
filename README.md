@@ -74,7 +74,7 @@ VITE_API_TOKEN=your_secret_token_here
 2. Serve files from a web server (required for modules)
 3. Install as PWA on supported devices
 
-## 📱 Screenshots
+## Screenshots
 
 ### Light Mode
 - Clean, modern interface with gradient backgrounds
